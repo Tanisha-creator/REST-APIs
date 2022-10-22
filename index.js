@@ -6,7 +6,7 @@ app.use(express.json())
 let books=[
     {
         id:1,
-        title: "Getting Started with api"
+        title: "Pele - autobio"
     },
     {
         id:2,
@@ -18,7 +18,7 @@ let books=[
     },
     {
         id:4,
-        title: "The lost Island"
+        title: "Marvel comics"
     }
 ]
 
